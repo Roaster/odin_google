@@ -1,0 +1,16 @@
+li {
+    display: inline;
+    padding: 8px;
+    font-family: sans-serif;
+}
+input[type="text"] {
+    width: 500px;
+    height: 25px;
+    padding-left: 10px;
+    border-radius: 10px
+}
+#search_buttons {
+    text-align: center;
+    height: 36px;
+    margin-top: 5px;
+}
